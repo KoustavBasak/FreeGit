@@ -19,5 +19,6 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('instagram.com')
+WebUI.maximizeWindow()
+WebUI.navigateToUrl('www.amazon.com')
 
