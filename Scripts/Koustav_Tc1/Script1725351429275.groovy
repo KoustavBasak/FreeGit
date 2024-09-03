@@ -21,3 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('instagram.com')
 
+WebUI.delay(10)
+
+WebUI.closeBrowser()
+
